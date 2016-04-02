@@ -5,7 +5,7 @@ public class Constants {
 	/*//DEV
 	public static final int PORT = 8080;
 	*/
-	PROD
+	//PROD
 	public static final int PORT = Integer.parseInt(System.getenv("PORT"));
 	
 }
